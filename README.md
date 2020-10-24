@@ -15,4 +15,11 @@ Please cite the associated papers for this work if you use this code:
   year={2016},
   organization={IEEE}
 }
+
+@inproceedings{bonner2016efficient,
+  title={Efficient Comparison of Massive Graphs Through The Use Of ‘Graph Fingerprints’},
+  author={Bonner, Stephen and Brennan, John and Kureshi, Ibad and Stephen, McGough and Theodoropoulos, Georgios},
+  booktitle={SIGKKD 12th International Workshop on Mining and Learning with Graphs (MLG)},
+  year={2016}
+}
 ```
